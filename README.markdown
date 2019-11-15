@@ -17,8 +17,7 @@ Go to josh's profile on CodePen if you need any help about this! (https://codepe
 pull requests are welcome, for changes, please open an issue first to discuss what you would like to change.
 
 # License
-This project is licensed under MIT license see the (license.md) 
-(https://codepen.io/iamjoshellis/pen/KVdQqm) Copyright (c) 2019 by Josh. 
+This project is licensed under MIT license..(https://codepen.io/iamjoshellis/pen/KVdQqm) Copyright (c) 2019 by Josh. 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software
 and associated documentation files (the "Software"), to deal in the Software without restriction,
