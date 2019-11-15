@@ -6,10 +6,13 @@ up for html audio elements in your ears!
 # Installation
 none 
 #  Support
-Go to josh's profile on CodePen if you need any help (https://codepen.io/iamjoshellis)
+Go to josh's profile on CodePen if you need any help about this! (https://codepen.io/iamjoshellis)
 
 #  Contributing: 
 pull requests are welcome, for changes, please open an issue first to discuss what you would like to change.
+
+# License
+This project is licensed under MIT license see the 
 
 
 
