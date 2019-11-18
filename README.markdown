@@ -1,4 +1,4 @@
-# Drum Kit (Play Me!) 🥁
+# Drum Kit (Play Me!) 
 
 an animated game created at codepen by josh URL/ https://codepen.io/iamjoshellis/pen/KVdQqm
 Rock out with this interactive svg animation, click, tap, or keys to play! Turn your volume 
